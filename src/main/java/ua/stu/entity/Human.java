@@ -1,5 +1,9 @@
 package ua.stu.entity;
 
-public class Human {
+public class Human implements Runnable{
 
+    @Override
+    public void run() {
+        
+    }
 }
